@@ -34,7 +34,7 @@ Migrate data effortlessly. The system accepts JSON files to bulk-import student 
 
 ### 4. Easy Updates & Deletion
 Modify student details or remove records with a few clicks, ensuring your database is always up to date.
-![Update Actions](screenshots/update_delete_actions.png)
+![Update Actions](screenshots/update_delete_actions_v2.png)
 
 ### 5. Data Export & Reset
 Download your entire dataset as **CSV** or **JSON** for backup or external analysis. Includes a "Danger Zone" to securely wipe all data when needed.
